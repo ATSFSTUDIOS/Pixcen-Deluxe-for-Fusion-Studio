@@ -4,7 +4,7 @@
 
 Pixcen is a retro Commodore C64 16-color focused bitmap image editor and dithering toolset for Windows.
 
-This repo holds a BMD Fusion Studios focused fork of the Pixcen Deluxe development repository. The purpose of the fork is to explore way to improve how the Pixcen software integrates with 3rd party DCC tools.
+This repo holds a BMD Fusion Studios focused fork of the Pixcen Deluxe development repository. The purpose of the fork is to explore way to improve how the Pixcen software integrates with 3rd party DCC tools. The goal is to allow Pixcen's powerful image stylization and dithering tools to work as a viewer LUT (Look Up Table) like filter inside of 3D rendering viewport windows, and as an [OpenFX](https://github.com/AcademySoftwareFoundation/openfx) plug-in filter that works with desktop based video editing and compositing software.
 
 ## Downloads
 
