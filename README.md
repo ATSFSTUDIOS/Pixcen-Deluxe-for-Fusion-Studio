@@ -6,7 +6,7 @@ Pixcen is a retro Commodore C64 16-color focused bitmap image editor and ditheri
 
 This repo holds a BMD Fusion Studios focused fork of the Pixcen Deluxe development repository. The purpose of the fork is to explore way to improve how the Pixcen software integrates with 3rd party DCC tools. 
 
-The goal is to allow Pixcen's powerful image stylization and dithering tools to work as a viewer LUT (Look Up Table) like filter inside of 3D rendering viewport windows, and as an [OpenFX](https://github.com/AcademySoftwareFoundation/openfx) plug-in filter that works with desktop based video editing and compositing software.
+The goal is to allow Pixcen's powerful image stylization and dithering tools to work as a viewer LUT (Look Up Table) like filter inside of 3D rendering viewport windows, and as an "[OpenFX](https://github.com/AcademySoftwareFoundation/openfx)" plug-in filter that works with desktop based video editing and compositing software.
 
 ## Downloads
 
@@ -15,6 +15,6 @@ https://binarybone.com/pixcen/pixcen.zip
 
 ## Compiling Pixcen Deluxe from Source
 
-To build Pixcen's source code, it is recommend to clone this repository using either the "[GitHub Desktop](https://desktop.github.com/download/)" app, [GitKraken](https://gitkraken.com/download), or the "[git for Windows](https://gitforwindows.org/)" CLI (vommand line interface).
+To build Pixcen's source code, it is recommend to clone this repository using either the "[GitHub Desktop](https://desktop.github.com/download/)" app, "[GitKraken](https://gitkraken.com/download)", or the "[git for Windows](https://gitforwindows.org/)" CLI (vommand line interface).
 
 Then download and use Microsoft's free "[Visual Studio 2022 Community Edition](https://aka.ms/vs/17/release/vs_community.exe)" development tools on Windows 10/11.
