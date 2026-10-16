@@ -13,7 +13,7 @@ The goal is to allow Pixcen's powerful image stylization and dithering tools to 
 Official Precompiled binaries for Windows can be downloaded from:  
 https://binarybone.com/pixcen/pixcen.zip  
 
-## Compiling Pixceb from Source
+## Compiling Pixcen Deluxe from Source
 
 To build Pixcen's source code, it is recommend to clone this repository using either the "[GitHub Desktop](https://desktop.github.com/download/)" app, [GitKraken](https://gitkraken.com/download), or the "[git for Windows](https://gitforwindows.org/)" CLI (vommand line interface).
 
