@@ -10,8 +10,8 @@ The goal is to allow Pixcen's powerful image stylization and dithering tools to 
 
 ## Downloads
 
-Official Precompiled binaries for Windows can be downloaded from:
-https://binarybone.com/pixcen/pixcen.zip
+Official Precompiled binaries for Windows can be downloaded from:  
+https://binarybone.com/pixcen/pixcen.zip  
 
 ## Compiling Pixceb from Source
 
