@@ -15,6 +15,6 @@ https://binarybone.com/pixcen/pixcen.zip
 
 ## Compiling Pixceb from Source
 
-To build Pixcen's source code, it is recommend to clone this repository using either the "GitHub Desktop" app, or the "git" CLI (vommand line interface).
+To build Pixcen's source code, it is recommend to clone this repository using either the "[GitHub Desktop](https://desktop.github.com/download/)" app, or the "git" CLI (vommand line interface).
 
-Then download and use Microsoft's free "Visual Studio 2022 Community Edition" development tools on Windows 10/11.
+Then download and use Microsoft's free "[Visual Studio 2022 Community Edition](https://aka.ms/vs/17/release/vs_community.exe)" development tools on Windows 10/11.
