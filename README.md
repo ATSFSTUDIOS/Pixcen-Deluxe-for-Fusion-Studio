@@ -2,7 +2,9 @@
 
 ## Overview
 
-A fork of the retro Commodore C64 16-color focused bitmap image editor and dithering toolset for Windows.
+Pixcen is a retro Commodore C64 16-color focused bitmap image editor and dithering toolset for Windows.
+
+This repo holds a BMD Fusion Studios focused fork of the Pixcen Deluxe development repository. The purpose of the fork is to explore way to improve how the Pixcen software integrates with 3rd party DCC tools.
 
 ## Downloads
 
