@@ -8,6 +8,16 @@ This repo holds a BMD Fusion Studios focused fork of the Pixcen Deluxe developme
 
 The goal is to allow Pixcen's powerful image stylization and dithering tools to work as a viewer LUT (Look Up Table) like filter inside of 3D rendering viewport windows, and as an "[OpenFX](https://github.com/AcademySoftwareFoundation/openfx)" plug-in filter that works with desktop based video editing and compositing software.
 
+## Screenshots
+
+![Main Window](Docs/pixcen-main-window.jpeg)
+
+Pixcen is a very capable toolset. It's loaded with advanced options to fully control your retro media production workflows. 
+
+![Color Reduction](Docs/pixcen-color-reduction.jpg)
+
+The color reduction allows you to control conversion of full-colour 24-bit imagery into 16-color indexed images for use with Commodore C64 systems.
+
 ## Downloads
 
 Official Precompiled binaries for Windows can be downloaded from:  
